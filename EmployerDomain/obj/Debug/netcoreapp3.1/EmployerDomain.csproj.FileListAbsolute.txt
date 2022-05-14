@@ -1,0 +1,10 @@
+C:\Users\avadh\source\repos\EmployerApi\EmployerDomain\bin\Debug\netcoreapp3.1\EmployerDomain.deps.json
+C:\Users\avadh\source\repos\EmployerApi\EmployerDomain\bin\Debug\netcoreapp3.1\EmployerDomain.dll
+C:\Users\avadh\source\repos\EmployerApi\EmployerDomain\bin\Debug\netcoreapp3.1\EmployerDomain.pdb
+C:\Users\avadh\source\repos\EmployerApi\EmployerDomain\obj\Debug\netcoreapp3.1\EmployerDomain.csproj.AssemblyReference.cache
+C:\Users\avadh\source\repos\EmployerApi\EmployerDomain\obj\Debug\netcoreapp3.1\EmployerDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avadh\source\repos\EmployerApi\EmployerDomain\obj\Debug\netcoreapp3.1\EmployerDomain.AssemblyInfoInputs.cache
+C:\Users\avadh\source\repos\EmployerApi\EmployerDomain\obj\Debug\netcoreapp3.1\EmployerDomain.AssemblyInfo.cs
+C:\Users\avadh\source\repos\EmployerApi\EmployerDomain\obj\Debug\netcoreapp3.1\EmployerDomain.csproj.CoreCompileInputs.cache
+C:\Users\avadh\source\repos\EmployerApi\EmployerDomain\obj\Debug\netcoreapp3.1\EmployerDomain.dll
+C:\Users\avadh\source\repos\EmployerApi\EmployerDomain\obj\Debug\netcoreapp3.1\EmployerDomain.pdb

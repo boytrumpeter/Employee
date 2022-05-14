@@ -1,0 +1,13 @@
+C:\Users\avadh\source\repos\EmployerApi\EmployeeApplication\bin\Debug\netcoreapp3.1\EmployeeApplication.deps.json
+C:\Users\avadh\source\repos\EmployerApi\EmployeeApplication\bin\Debug\netcoreapp3.1\EmployeeApplication.dll
+C:\Users\avadh\source\repos\EmployerApi\EmployeeApplication\bin\Debug\netcoreapp3.1\EmployeeApplication.pdb
+C:\Users\avadh\source\repos\EmployerApi\EmployeeApplication\bin\Debug\netcoreapp3.1\EmployerDomain.dll
+C:\Users\avadh\source\repos\EmployerApi\EmployeeApplication\bin\Debug\netcoreapp3.1\EmployerDomain.pdb
+C:\Users\avadh\source\repos\EmployerApi\EmployeeApplication\obj\Debug\netcoreapp3.1\EmployeeApplication.csproj.AssemblyReference.cache
+C:\Users\avadh\source\repos\EmployerApi\EmployeeApplication\obj\Debug\netcoreapp3.1\EmployeeApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avadh\source\repos\EmployerApi\EmployeeApplication\obj\Debug\netcoreapp3.1\EmployeeApplication.AssemblyInfoInputs.cache
+C:\Users\avadh\source\repos\EmployerApi\EmployeeApplication\obj\Debug\netcoreapp3.1\EmployeeApplication.AssemblyInfo.cs
+C:\Users\avadh\source\repos\EmployerApi\EmployeeApplication\obj\Debug\netcoreapp3.1\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\avadh\source\repos\EmployerApi\EmployeeApplication\obj\Debug\netcoreapp3.1\EmployeeApplication.csproj.CopyComplete
+C:\Users\avadh\source\repos\EmployerApi\EmployeeApplication\obj\Debug\netcoreapp3.1\EmployeeApplication.dll
+C:\Users\avadh\source\repos\EmployerApi\EmployeeApplication\obj\Debug\netcoreapp3.1\EmployeeApplication.pdb

@@ -1,0 +1,16 @@
+C:\Users\avadh\source\repos\EmployerApi\EmployerInfrastructure\bin\Debug\netcoreapp3.1\EmployerInfrastructure.deps.json
+C:\Users\avadh\source\repos\EmployerApi\EmployerInfrastructure\bin\Debug\netcoreapp3.1\EmployerInfrastructure.runtimeconfig.json
+C:\Users\avadh\source\repos\EmployerApi\EmployerInfrastructure\bin\Debug\netcoreapp3.1\EmployerInfrastructure.runtimeconfig.dev.json
+C:\Users\avadh\source\repos\EmployerApi\EmployerInfrastructure\bin\Debug\netcoreapp3.1\EmployerInfrastructure.dll
+C:\Users\avadh\source\repos\EmployerApi\EmployerInfrastructure\bin\Debug\netcoreapp3.1\EmployerInfrastructure.pdb
+C:\Users\avadh\source\repos\EmployerApi\EmployerInfrastructure\bin\Debug\netcoreapp3.1\EmployerDomain.dll
+C:\Users\avadh\source\repos\EmployerApi\EmployerInfrastructure\bin\Debug\netcoreapp3.1\EmployerDomain.pdb
+C:\Users\avadh\source\repos\EmployerApi\EmployerInfrastructure\obj\Debug\netcoreapp3.1\EmployerInfrastructure.csproj.AssemblyReference.cache
+C:\Users\avadh\source\repos\EmployerApi\EmployerInfrastructure\obj\Debug\netcoreapp3.1\EmployerInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avadh\source\repos\EmployerApi\EmployerInfrastructure\obj\Debug\netcoreapp3.1\EmployerInfrastructure.AssemblyInfoInputs.cache
+C:\Users\avadh\source\repos\EmployerApi\EmployerInfrastructure\obj\Debug\netcoreapp3.1\EmployerInfrastructure.AssemblyInfo.cs
+C:\Users\avadh\source\repos\EmployerApi\EmployerInfrastructure\obj\Debug\netcoreapp3.1\EmployerInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\avadh\source\repos\EmployerApi\EmployerInfrastructure\obj\Debug\netcoreapp3.1\EmployerInfrastructure.csproj.CopyComplete
+C:\Users\avadh\source\repos\EmployerApi\EmployerInfrastructure\obj\Debug\netcoreapp3.1\EmployerInfrastructure.dll
+C:\Users\avadh\source\repos\EmployerApi\EmployerInfrastructure\obj\Debug\netcoreapp3.1\EmployerInfrastructure.pdb
+C:\Users\avadh\source\repos\EmployerApi\EmployerInfrastructure\obj\Debug\netcoreapp3.1\EmployerInfrastructure.genruntimeconfig.cache

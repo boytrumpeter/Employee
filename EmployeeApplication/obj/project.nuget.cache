@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Von3GGeZOfUY0w8JHo29JH0SXRfDzY9n6W4feMAesq+A7VMpYKBO8HkGNZw88qmJYlU+OO8L57KByc8PUA6eDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\avadh\\source\\repos\\EmployerApi\\EmployeeApplication\\EmployeeApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\avadh\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\avadh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\avadh\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\avadh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\avadh\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\avadh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

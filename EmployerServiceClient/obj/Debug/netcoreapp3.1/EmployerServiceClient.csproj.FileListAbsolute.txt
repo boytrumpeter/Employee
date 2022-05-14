@@ -1,0 +1,10 @@
+C:\Users\avadh\source\repos\EmployerApi\EmployerServiceClient\bin\Debug\netcoreapp3.1\EmployerServiceClient.deps.json
+C:\Users\avadh\source\repos\EmployerApi\EmployerServiceClient\bin\Debug\netcoreapp3.1\EmployerServiceClient.dll
+C:\Users\avadh\source\repos\EmployerApi\EmployerServiceClient\bin\Debug\netcoreapp3.1\EmployerServiceClient.pdb
+C:\Users\avadh\source\repos\EmployerApi\EmployerServiceClient\obj\Debug\netcoreapp3.1\EmployerServiceClient.csproj.AssemblyReference.cache
+C:\Users\avadh\source\repos\EmployerApi\EmployerServiceClient\obj\Debug\netcoreapp3.1\EmployerServiceClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avadh\source\repos\EmployerApi\EmployerServiceClient\obj\Debug\netcoreapp3.1\EmployerServiceClient.AssemblyInfoInputs.cache
+C:\Users\avadh\source\repos\EmployerApi\EmployerServiceClient\obj\Debug\netcoreapp3.1\EmployerServiceClient.AssemblyInfo.cs
+C:\Users\avadh\source\repos\EmployerApi\EmployerServiceClient\obj\Debug\netcoreapp3.1\EmployerServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\avadh\source\repos\EmployerApi\EmployerServiceClient\obj\Debug\netcoreapp3.1\EmployerServiceClient.dll
+C:\Users\avadh\source\repos\EmployerApi\EmployerServiceClient\obj\Debug\netcoreapp3.1\EmployerServiceClient.pdb
