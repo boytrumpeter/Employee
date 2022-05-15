@@ -6,9 +6,9 @@ namespace EmployeeApplication.Models
 {
     public class EmployeeModel
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string AccountNummber { get; set; }
+        public int EmployeeId { get; set; }
+        public string EmployeeName { get; set; }
+        public string AccountNumber { get; set; }
         public DateTime CreatedUTC { get; set; }
     }
 }
